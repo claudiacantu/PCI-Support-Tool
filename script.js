@@ -31,10 +31,7 @@ Direct Post => A-EP
 
 
 	`,
-				script: `"I was able to place you on the Questionnaire.  QUestionairre D has 200+ questions so I will not be able to walk you through it. However, I can email you the merchant guide so that you can use it to fill out the questionairre or you can relay it to your IT person and have them help complete it. D does require a network scan that I can assist you with if you would like."
-
-
-				Part 3 Q1:
+				script: `Part 3 Q1:
 
 				"Does your company share cardholder data with any third party service providers?"
 				***This answer should be YES***
