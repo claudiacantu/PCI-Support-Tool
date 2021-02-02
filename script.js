@@ -487,11 +487,26 @@ ___if no
 			const scriptEl = document.getElementById('script');
 			const copypasteEl = document.getElementById('copypaste');
 
+			const elements = [
+				notesEl,
+				scriptEl,
+				copypasteEl,
+			];
+
+			const resetScroll = (element) => {
+				elements.forEach(element => {
+					element.scrollTop = 0;
+				})
+			} ;
+
+
 			const textToHtml = (text) => {
 				return text
 				.split(/\n/)
 				.join('</span><br><span>')
 			};
+
+			resetScroll();
 
 			notesEl.innerHTML = textToHtml(textMap[type].notes);
 			scriptEl.innerHTML = textToHtml(textMap[type].script);
