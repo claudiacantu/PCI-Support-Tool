@@ -378,14 +378,11 @@ ___if no
 				Needed to become compliant probed SAQ C-VT, assisted with saq walk thru. Compliant & emailed COV.
 
 				------------------------------------------
-				D
+				C / D
+				
 				Needed to become compliant probed SAQ D, advised they get with IT to complete questionnaire.  Started scan and informed to wait 1-2 business days for results and help with additional steps. 
 
-				------------------------------------------
-
-				C / D
-
-				Needed to become compliant probed SAQ , assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
+				Needed to become compliant probed SAQ C, assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
 
 				Expired scan. Needed to start scan, assisted with walk thru. Advised scan is queued, await 1-2 business days for scan results. 
 
@@ -463,7 +460,7 @@ ___if no
 				---------------------------------------
 				---------------------------------------
 
-				(Merchant MUST provide reference number!
+				(Merchant MUST provide reference number if there is more than one!)
 				If they dont have ref number check B or B-IP.
 
 				SAQ P2PE - We utilized a PCI SSC validated P2PE solution and have no access to cardholder information
