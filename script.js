@@ -94,13 +94,13 @@ Direct Post => A-EP
 				`,
 				copypaste: `A 
 
-				Needed to become compliant probed SAQ , assisted with saq walk thru. Compliant & advised to print reports.
+				Needed to become compliant probed SAQ A, assisted with saq walk thru. Compliant & emailed COV.
 
 				---------------------------------------
 
 				A-EP
 
-				Needed to become compliant probed SAQ , assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
+				Needed to become compliant probed SAQ A-EP, assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
 
 				Expired scan. Needed to start scan, assisted with walk thru. Advised scan is queued, await 1-2 business days for scan results. 
 
@@ -181,7 +181,7 @@ ___if no
 
 				B-IP
 
-				Needed to become compliant probed SAQ A-B-IP, assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
+				Needed to become compliant probed SAQ B-IP, assisted with saq and started scan. Advised scan is queued, await 1-2 business days for scan results.
 
 				Expired scan. Needed to start scan, assisted with walk thru. Advised scan is queued, await 1-2 business days for scan results. 
 
@@ -256,7 +256,10 @@ ___if no
 `,
 				copypaste: `B / C-VT
 
-				Needed to become compliant probed SAQ , assisted with saq walk thru. Now compliant. Emailed COV to merchant.
+				Needed to become compliant probed SAQ B, assisted with saq walk thru. Now compliant. Emailed COV to merchant.
+
+
+				Needed to become compliant probed SAQ C-VT, assisted with saq walk thru. Now compliant. Emailed COV to merchant.
 
 				-------------------------------------
 
@@ -372,7 +375,7 @@ ___if no
 `,
 				copypaste: `C-VT
 
-				Needed to become compliant probed SAQ , assisted with saq walk thru. Compliant & emailed COV.
+				Needed to become compliant probed SAQ C-VT, assisted with saq walk thru. Compliant & emailed COV.
 
 				------------------------------------------
 				D
